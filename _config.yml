@@ -86,7 +86,7 @@ social:
   - name: Facebook
     icon: facebook
     username: Boulund
-    url: ""
+    url: https://facebook.com/boulund
     desc: Friend me on Facebook
     share: true
 
@@ -95,7 +95,7 @@ social:
     username: bencentra
     url: https://github.com/henrikboulund
     desc: Fork me on GitHub
-    share: false
+    share: true
 
   - name: LinkedIn
     icon: linkedin
