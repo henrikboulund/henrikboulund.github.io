@@ -78,14 +78,14 @@ descriptions:
 social:
   - name: Twitter
     icon: twitter
-    username: TheBenCentra
-    url: https://twitter.com/TheBenCentra
+    username: HenrikBoulund
+    url: https://twitter.com/HenrikBoulunf
     desc: Follow me on Twitter
     share: true
 
   - name: Facebook
     icon: facebook
-    username: thebencentra
+    username: Boulund
     url: ""
     desc: Friend me on Facebook
     share: true
@@ -93,7 +93,7 @@ social:
   - name: GitHub
     icon: github
     username: bencentra
-    url: https://github.com/bencentra
+    url: https://github.com/henrikboulund
     desc: Fork me on GitHub
     share: false
 
